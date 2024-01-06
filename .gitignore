@@ -23,7 +23,7 @@ var/
 .serverless
 
 #mycustom env
-serverless-lambda-python-env/
+lambda-python-env/
 
 #node modules
 node_modules/
